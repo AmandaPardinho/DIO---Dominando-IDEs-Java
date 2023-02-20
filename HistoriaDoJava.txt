@@ -1,0 +1,36 @@
+HISTÓRIA DO JAVA
+
+-linguagem de programação orientada a objetos
+-desenvolvida pela SUN Microsystems na década de 1990
+	-posteriormente foi adquirida pela Oracle (2008)
+-foi a linguagem de programação mais rapidamente adotada na história	
+-popularização: uso na internet
+	-navegadores
+	-programas
+	-jogos
+	-celular
+	-outros
+-é uma linguagem interpretada => o código escrito em Java (.java) é compilado para um byte code (.class) e este é interpretado pela JVM
+	-difere das linguagens compiladas (linguagem compilada => a compilação do código ocorre ainda na etapa de desenvolvimento)
+	-JDK: (Java Development Kit): 
+		-serve para o programador desenvolver o código
+		-compila o código fonte em byte code
+	-JRE (Java Runtime Environment): 
+		-usada para rodar os programas Java, pois contém a JVM
+		-fornece as bibliotecas padrões do Java para o JDK compilar o código e par a JVM executar o programa
+	-JVM (Java Virtual Machine):
+		-executa o byte code
+
+-linguagem Java:
+	-linguagem convencional da plataforma Java
+	-não é a única linguagem da plataforma (Groove, JRuby(?))	
+	-vantagens da plataforma Java:
+		-não se prende a um único sistema operacional ou hardware => programas rodam através de uma máquina virtual que pode ser emulada (WORA)
+		-edições da plataforma Java:
+			-Java SE (Standard Edition)
+				-base da plataforma
+				-traz algumas classes comuns às plataformas
+			-Java EE (enterprise Edition)
+				-cuida da parte de desenvolvimento web
+			-Java ME (Micro Edition)
+				-cuida da parte de desenvolvimento móvel e sistemas embarcados
