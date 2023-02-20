@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DIO---Dominando-IDEs-Java.iml" filepath="$PROJECT_DIR$/.idea/DIO---Dominando-IDEs-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaInicial/ProgramaInicial.iml" filepath="$PROJECT_DIR$/ProgramaInicial/ProgramaInicial.iml" />
     </modules>
   </component>
 </project>
