@@ -1,6 +1,6 @@
 HISTÓRIA DO JAVA
 
--linguagem de programação orientada a objetos
+-é uma linguagem de programação orientada a objetos
 -desenvolvida pela SUN Microsystems na década de 1990
 	-posteriormente foi adquirida pela Oracle (2008)
 -foi a linguagem de programação mais rapidamente adotada na história	
@@ -23,7 +23,7 @@ HISTÓRIA DO JAVA
 
 -linguagem Java:
 	-linguagem convencional da plataforma Java
-	-não é a única linguagem da plataforma (Groove, JRuby(?))	
+	-não é a única linguagem da plataforma (Groove, JRuby)	
 	-vantagens da plataforma Java:
 		-não se prende a um único sistema operacional ou hardware => programas rodam através de uma máquina virtual que pode ser emulada (WORA)
 		-edições da plataforma Java:
